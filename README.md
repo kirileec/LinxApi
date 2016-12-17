@@ -1,0 +1,2 @@
+# LinxApi
+Typecho Api Plugin
